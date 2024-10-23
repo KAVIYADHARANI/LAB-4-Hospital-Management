@@ -6,25 +6,6 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
-
-### USECASE DIAGRAM:
-
-
-### CLASS DIAGRAM:
-
-
-### ACTIVITY DIAGRAM:
-
-
-### COMMUNICATION DIAGRAM:
-
-
-### SEQUENCE DIAGRAM:
-
-
-### PACKAGE DIAGRAM:
-
-
 ### USECASE DIAGRAM:
 
 ![UseCaseDiagram1_h](https://github.com/user-attachments/assets/e81d5420-d87e-4179-9fe9-0167ae9ac771)
@@ -43,7 +24,8 @@ This application provides a way to record this information and to access these i
 
 ### PACKAGE DIAGRAM:
 
-![Uploading PackageDiagram1_h.jpg…]()
+![PackageDiagram1_h](https://github.com/user-attachments/assets/d08ffe0b-968b-41b4-aedd-72aea9784742)
+
 
 ### SEQUENCE DIAGRAM:
 ![SequenceDiagram1_h](https://github.com/user-attachments/assets/7679d9ba-c574-4a38-91af-cb79c59d761d)
